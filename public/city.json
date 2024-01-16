@@ -1,0 +1,1010 @@
+[
+  {
+    "cityName": "AGARTALA"
+  },
+  {
+    "cityName": "AGRA"
+  },
+  {
+    "cityName": "AHMEDABAD"
+  },
+  {
+    "cityName": "AIZWAL"
+  },
+  {
+    "cityName": "AJMER"
+  },
+  {
+    "cityName": "ALLAHABAD"
+  },
+  {
+    "cityName": "ALLEPPEY"
+  },
+  {
+    "cityName": "ALIBAUG"
+  },
+  {
+    "cityName": "ALMORA"
+  },
+  {
+    "cityName": "ALSISAR"
+  },
+  {
+    "cityName": "ALWAR"
+  },
+  {
+    "cityName": "AMBALA"
+  },
+  {
+    "cityName": "AMLA"
+  },
+  {
+    "cityName": "AMRITSAR"
+  },
+  {
+    "cityName": "ANAND"
+  },
+  {
+    "cityName": "ANKLESHWAR"
+  },
+  {
+    "cityName": "ASHTAMUDI"
+  },
+  {
+    "cityName": "AULI"
+  },
+  {
+    "cityName": "AURANGABAD"
+  },
+  {
+    "cityName": "BADDI"
+  },
+  {
+    "cityName": "BADRINATH"
+  },
+  {
+    "cityName": "BALASINOR"
+  },
+  {
+    "cityName": "BALRAMPUR"
+  },
+  {
+    "cityName": "BAMBORA"
+  },
+  {
+    "cityName": "BANDHAVGARH"
+  },
+  {
+    "cityName": "BANDIPUR"
+  },
+  {
+    "cityName": "BANGALORE"
+  },
+  {
+    "cityName": "BARBIL"
+  },
+  {
+    "cityName": "BAREILLY"
+  },
+  {
+    "cityName": "BEHROR"
+  },
+  {
+    "cityName": "BELGAUM"
+  },
+  {
+    "cityName": "BERHAMPUR"
+  },
+  {
+    "cityName": "BETALGHAT"
+  },
+  {
+    "cityName": "BHARATPUR"
+  },
+  {
+    "cityName": "BHANDARDARA"
+  },
+  {
+    "cityName": "BHARUCH"
+  },
+  {
+    "cityName": "BHAVANGADH"
+  },
+  {
+    "cityName": "BHAVNAGAR"
+  },
+  {
+    "cityName": "BHILAI"
+  },
+  {
+    "cityName": "BHIMTAL"
+  },
+  {
+    "cityName": "BHOPAL"
+  },
+  {
+    "cityName": "BHUBANESHWAR"
+  },
+  {
+    "cityName": "BHUJ"
+  },
+  {
+    "cityName": "BIKANER"
+  },
+  {
+    "cityName": "BINSAR"
+  },
+  {
+    "cityName": "BODHGAYA"
+  },
+  {
+    "cityName": "CALICUT"
+  },
+  {
+    "cityName": "CANANNORE"
+  },
+  {
+    "cityName": "CHAIL"
+  },
+  {
+    "cityName": "CHAMBA"
+  },
+  {
+    "cityName": "CHANDIGARH"
+  },
+  {
+    "cityName": "CHENNAI"
+  },
+  {
+    "cityName": "CHIKMAGALUR"
+  },
+  {
+    "cityName": "CHIPLUN"
+  },
+  {
+    "cityName": "CHITRAKOOT"
+  },
+  {
+    "cityName": "CHITTORGARH"
+  },
+  {
+    "cityName": "COIMBATORE"
+  },
+  {
+    "cityName": "COONOOR"
+  },
+  {
+    "cityName": "COORG"
+  },
+  {
+    "cityName": "CORBETT NATIONAL PARK"
+  },
+  {
+    "cityName": "CUTTACK"
+  },
+  {
+    "cityName": "DABHOSA"
+  },
+  {
+    "cityName": "DALHOUSIE"
+  },
+  {
+    "cityName": "DAMAN"
+  },
+  {
+    "cityName": "DANDELI"
+  },
+  {
+    "cityName": "DAPOLI"
+  },
+  {
+    "cityName": "DARJEELING"
+  },
+  {
+    "cityName": "DAUSA"
+  },
+  {
+    "cityName": "DEHRADUN"
+  },
+  {
+    "cityName": "DHARAMSHALA"
+  },
+  {
+    "cityName": "DIBRUGARH"
+  },
+  {
+    "cityName": "DIGHA"
+  },
+  {
+    "cityName": "DIU"
+  },
+  {
+    "cityName": "DIVE AGAR"
+  },
+  {
+    "cityName": "DOOARS"
+  },
+  {
+    "cityName": "DURGAPUR"
+  },
+  {
+    "cityName": "DURSHET"
+  },
+  {
+    "cityName": "DWARKA"
+  },
+  {
+    "cityName": "FARIDABAD"
+  },
+  {
+    "cityName": "FIROZABAD"
+  },
+  {
+    "cityName": "GANAPATIPULE"
+  },
+  {
+    "cityName": "GANDHIDHAM"
+  },
+  {
+    "cityName": "GANDHINAGAR"
+  },
+  {
+    "cityName": "GARHMUKTESHWAR"
+  },
+  {
+    "cityName": "GARHWAL"
+  },
+  {
+    "cityName": "GAYA"
+  },
+  {
+    "cityName": "GHAZIABAD"
+  },
+  {
+    "cityName": "GOA"
+  },
+  {
+    "cityName": "GOKHARNA"
+  },
+  {
+    "cityName": "GONDAL"
+  },
+  {
+    "cityName": "GORAKHPUR"
+  },
+  {
+    "cityName": "GREATER NOIDA"
+  },
+  {
+    "cityName": "GULMARG"
+  },
+  {
+    "cityName": "GURGAON"
+  },
+  {
+    "cityName": "GURUVAYOOR"
+  },
+  {
+    "cityName": "GUWAHATI"
+  },
+  {
+    "cityName": "GWALIOR"
+  },
+  {
+    "cityName": "HALEBID"
+  },
+  {
+    "cityName": "HAMPI"
+  },
+  {
+    "cityName": "HANSI"
+  },
+  {
+    "cityName": "HARIDWAR"
+  },
+  {
+    "cityName": "HASSAN"
+  },
+  {
+    "cityName": "HOSPET"
+  },
+  {
+    "cityName": "HOSUR"
+  },
+  {
+    "cityName": "HUMLAY"
+  },
+  {
+    "cityName": "HYDERABAD"
+  },
+  {
+    "cityName": "IDUKKI"
+  },
+  {
+    "cityName": "IGATPURI"
+  },
+  {
+    "cityName": "IMPHAL"
+  },
+  {
+    "cityName": "INDORE"
+  },
+  {
+    "cityName": "JABALPUR"
+  },
+  {
+    "cityName": "JAIPUR"
+  },
+  {
+    "cityName": "JAISALMER"
+  },
+  {
+    "cityName": "JALANDHAR"
+  },
+  {
+    "cityName": "JALGAON"
+  },
+  {
+    "cityName": "JAMBUGODHA"
+  },
+  {
+    "cityName": "JAMMU"
+  },
+  {
+    "cityName": "JAMNAGAR"
+  },
+  {
+    "cityName": "JAMSHEDPUR"
+  },
+  {
+    "cityName": "JAWHAR"
+  },
+  {
+    "cityName": "JHANSI"
+  },
+  {
+    "cityName": "JODHPUR"
+  },
+  {
+    "cityName": "JOJAWAR"
+  },
+  {
+    "cityName": "JORHAT"
+  },
+  {
+    "cityName": "JUNAGADH"
+  },
+  {
+    "cityName": "KABINI"
+  },
+  {
+    "cityName": "KALIMPONG"
+  },
+  {
+    "cityName": "KANATAL"
+  },
+  {
+    "cityName": "KANCHIPURAM"
+  },
+  {
+    "cityName": "KANHA"
+  },
+  {
+    "cityName": "KANPUR"
+  },
+  {
+    "cityName": "KANYAKUMARI"
+  },
+  {
+    "cityName": "KARGIL"
+  },
+  {
+    "cityName": "KARJAT"
+  },
+  {
+    "cityName": "KARNAL"
+  },
+  {
+    "cityName": "KARUR"
+  },
+  {
+    "cityName": "KARWAR"
+  },
+  {
+    "cityName": "KASARGOD"
+  },
+  {
+    "cityName": "KASAULI"
+  },
+  {
+    "cityName": "KASHIPUR"
+  },
+  {
+    "cityName": "KASHID"
+  },
+  {
+    "cityName": "KATRA"
+  },
+  {
+    "cityName": "KAUSANI"
+  },
+  {
+    "cityName": "KAZA"
+  },
+  {
+    "cityName": "KAZIRANGA"
+  },
+  {
+    "cityName": "KEDARNATH"
+  },
+  {
+    "cityName": "KHAJJIAR"
+  },
+  {
+    "cityName": "KHAJURAHO"
+  },
+  {
+    "cityName": "KHANDALA"
+  },
+  {
+    "cityName": "KHIMSAR"
+  },
+  {
+    "cityName": "KOCHIN"
+  },
+  {
+    "cityName": "KODAIKANAL"
+  },
+  {
+    "cityName": "KOLHAPUR"
+  },
+  {
+    "cityName": "KOLKATA"
+  },
+  {
+    "cityName": "KOLLAM"
+  },
+  {
+    "cityName": "KOTA"
+  },
+  {
+    "cityName": "KOTAGIRI"
+  },
+  {
+    "cityName": "KOTTAYAM"
+  },
+  {
+    "cityName": "KOVALAM"
+  },
+  {
+    "cityName": "KUFRI"
+  },
+  {
+    "cityName": "KUMBALGARH"
+  },
+  {
+    "cityName": "KULLU"
+  },
+  {
+    "cityName": "KUMARAKOM"
+  },
+  {
+    "cityName": "KUMBAKONAM"
+  },
+  {
+    "cityName": "KUMILY"
+  },
+  {
+    "cityName": "KURSEONG"
+  },
+  {
+    "cityName": "KUSHINAGAR"
+  },
+  {
+    "cityName": "LACHUNG"
+  },
+  {
+    "cityName": "LEH"
+  },
+  {
+    "cityName": "LAKSHADWEEP"
+  },
+  {
+    "cityName": "LONAVALA"
+  },
+  {
+    "cityName": "LOTHAL"
+  },
+  {
+    "cityName": "LUCKNOW"
+  },
+  {
+    "cityName": "LUDHIANA"
+  },
+  {
+    "cityName": "LUMBINI"
+  },
+  {
+    "cityName": "MADURAI"
+  },
+  {
+    "cityName": "MAHABALESHWAR"
+  },
+  {
+    "cityName": "MAHABALIPURAM"
+  },
+  {
+    "cityName": "MALAPPURAM"
+  },
+  {
+    "cityName": "MALPE"
+  },
+  {
+    "cityName": "MALSHEJ GHAT"
+  },
+  {
+    "cityName": "MALVAN"
+  },
+  {
+    "cityName": "MANALI"
+  },
+  {
+    "cityName": "MANDAVI"
+  },
+  {
+    "cityName": "MANDAWA"
+  },
+  {
+    "cityName": "MANESAR"
+  },
+  {
+    "cityName": "MARARRI"
+  },
+  {
+    "cityName": "MANDORMONI"
+  },
+  {
+    "cityName": "MANGALORE"
+  },
+  {
+    "cityName": "MANMAD"
+  },
+  {
+    "cityName": "MARCHULA"
+  },
+  {
+    "cityName": "MATHERAN"
+  },
+  {
+    "cityName": "MATHURA"
+  },
+  {
+    "cityName": "MCLEODGANJ"
+  },
+  {
+    "cityName": "MOHALI"
+  },
+  {
+    "cityName": "MOUNT ABU"
+  },
+  {
+    "cityName": "MORADABAD"
+  },
+  {
+    "cityName": "MORBI"
+  },
+  {
+    "cityName": "MUKTESHWAR"
+  },
+  {
+    "cityName": "MUMBAI"
+  },
+  {
+    "cityName": "MUNDRA"
+  },
+  {
+    "cityName": "MUNNAR"
+  },
+  {
+    "cityName": "MURUD JANJIRA"
+  },
+  {
+    "cityName": "MUSSOORIE"
+  },
+  {
+    "cityName": "MYSORE"
+  },
+  {
+    "cityName": "NADUKANI"
+  },
+  {
+    "cityName": "NAGAPATTINAM"
+  },
+  {
+    "cityName": "NAGARHOLE"
+  },
+  {
+    "cityName": "NAGAUR FORT"
+  },
+  {
+    "cityName": "NAGOTHANE"
+  },
+  {
+    "cityName": "NAGPUR"
+  },
+  {
+    "cityName": "NAHAN"
+  },
+  {
+    "cityName": "NAINITAL"
+  },
+  {
+    "cityName": "NALDHERA"
+  },
+  {
+    "cityName": "NANDED"
+  },
+  {
+    "cityName": "NAPNE"
+  },
+  {
+    "cityName": "NASIK"
+  },
+  {
+    "cityName": "NAVI MUMBAI"
+  },
+  {
+    "cityName": "NERAL"
+  },
+  {
+    "cityName": "NEW DELHI"
+  },
+  {
+    "cityName": "NILGIRI"
+  },
+  {
+    "cityName": "NOIDA"
+  },
+  {
+    "cityName": "OOTY"
+  },
+  {
+    "cityName": "ORCHHA"
+  },
+  {
+    "cityName": "OSIAN"
+  },
+  {
+    "cityName": "PACHMARHI"
+  },
+  {
+    "cityName": "PALAMPUR"
+  },
+  {
+    "cityName": "PALANPUR"
+  },
+  {
+    "cityName": "PALI"
+  },
+  {
+    "cityName": "PAHALGAM"
+  },
+  {
+    "cityName": "PALITANA"
+  },
+  {
+    "cityName": "PALLAKAD"
+  },
+  {
+    "cityName": "PANCHGANI"
+  },
+  {
+    "cityName": "PANCHKULA"
+  },
+  {
+    "cityName": "PANNA"
+  },
+  {
+    "cityName": "PANHALA"
+  },
+  {
+    "cityName": "PANVEL"
+  },
+  {
+    "cityName": "PANTNAGAR"
+  },
+  {
+    "cityName": "PARWANOO"
+  },
+  {
+    "cityName": "PATIALA"
+  },
+  {
+    "cityName": "PATHANKOT"
+  },
+  {
+    "cityName": "PATNA"
+  },
+  {
+    "cityName": "PATNITOP"
+  },
+  {
+    "cityName": "PELLING"
+  },
+  {
+    "cityName": "PENCH"
+  },
+  {
+    "cityName": "PHAGWARA"
+  },
+  {
+    "cityName": "PHALODI"
+  },
+  {
+    "cityName": "PINJORE"
+  },
+  {
+    "cityName": "PONDICHERRY"
+  },
+  {
+    "cityName": "POOVAR"
+  },
+  {
+    "cityName": "PORBANDAR"
+  },
+  {
+    "cityName": "PORT BLAIR"
+  },
+  {
+    "cityName": "POSHINA"
+  },
+  {
+    "cityName": "PRAGPUR"
+  },
+  {
+    "cityName": "PUNE"
+  },
+  {
+    "cityName": "PURI"
+  },
+  {
+    "cityName": "PUSKHAR"
+  },
+  {
+    "cityName": "PUTTAPARTHI"
+  },
+  {
+    "cityName": "RAI BAREILLY"
+  },
+  {
+    "cityName": "RAICHAK"
+  },
+  {
+    "cityName": "RAIPUR"
+  },
+  {
+    "cityName": "RAJASTHAN"
+  },
+  {
+    "cityName": "RAJGIR"
+  },
+  {
+    "cityName": "RAJKOT"
+  },
+  {
+    "cityName": "RAJPIPLA"
+  },
+  {
+    "cityName": "RAJSAMAND"
+  },
+  {
+    "cityName": "RAJAHMUNDRY"
+  },
+  {
+    "cityName": "RAMESHWARAM"
+  },
+  {
+    "cityName": "RAM NAGAR"
+  },
+  {
+    "cityName": "RAMGARH"
+  },
+  {
+    "cityName": "RANAKPUR"
+  },
+  {
+    "cityName": "RANCHI"
+  },
+  {
+    "cityName": "RANIKHET"
+  },
+  {
+    "cityName": "RANNY"
+  },
+  {
+    "cityName": "RANTHAMBORE"
+  },
+  {
+    "cityName": "RATNAGIRI"
+  },
+  {
+    "cityName": "RAVANGLA"
+  },
+  {
+    "cityName": "RISHIKESH"
+  },
+  {
+    "cityName": "RISHYAP"
+  },
+  {
+    "cityName": "ROHETGARH"
+  },
+  {
+    "cityName": "ROURKELA"
+  },
+  {
+    "cityName": "SAJAN"
+  },
+  {
+    "cityName": "SALEM"
+  },
+  {
+    "cityName": "SAPUTARA"
+  },
+  {
+    "cityName": "SASAN GIR"
+  },
+  {
+    "cityName": "SATTAL"
+  },
+  {
+    "cityName": "SAWAI MADHOPUR"
+  },
+  {
+    "cityName": "SAWANTWADI"
+  },
+  {
+    "cityName": "SECUNDERABAD"
+  },
+  {
+    "cityName": "SHILLONG"
+  },
+  {
+    "cityName": "SHIMLA"
+  },
+  {
+    "cityName": "SHIMLIPAL"
+  },
+  {
+    "cityName": "SHIRDI"
+  },
+  {
+    "cityName": "SHARAVANBELGOLA"
+  },
+  {
+    "cityName": "SHIVANASAMUDRA"
+  },
+  {
+    "cityName": "SIANA"
+  },
+  {
+    "cityName": "SILIGURI"
+  },
+  {
+    "cityName": "SILVASSA"
+  },
+  {
+    "cityName": "SIVAGANGA DISTRICT"
+  },
+  {
+    "cityName": "SOLAN"
+  },
+  {
+    "cityName": "SONAULI"
+  },
+  {
+    "cityName": "SRINAGAR"
+  },
+  {
+    "cityName": "SUNDERBAN"
+  },
+  {
+    "cityName": "SURAT"
+  },
+  {
+    "cityName": "TANJORE"
+  },
+  {
+    "cityName": "TAPOLA"
+  },
+  {
+    "cityName": "TARAPITH"
+  },
+  {
+    "cityName": "THANE"
+  },
+  {
+    "cityName": "THEKKADY"
+  },
+  {
+    "cityName": "THIRVANNAMALAI"
+  },
+  {
+    "cityName": "THIRUVANANTHAPURAM"
+  },
+  {
+    "cityName": "TIRUCHIRAPALLI"
+  },
+  {
+    "cityName": "TIRUPUR"
+  },
+  {
+    "cityName": "TIRUPATI"
+  },
+  {
+    "cityName": "THRISSUR"
+  },
+  {
+    "cityName": "UDAIPUR"
+  },
+  {
+    "cityName": "UDHAMPUR"
+  },
+  {
+    "cityName": "UDUPI"
+  },
+  {
+    "cityName": "UJJAIN"
+  },
+  {
+    "cityName": "UTTARKASHI"
+  },
+  {
+    "cityName": "VADODARA"
+  },
+  {
+    "cityName": "VAGAMON"
+  },
+  {
+    "cityName": "VARKALA"
+  },
+  {
+    "cityName": "VAPI"
+  },
+  {
+    "cityName": "VARANASI"
+  },
+  {
+    "cityName": "VELANKANNI"
+  },
+  {
+    "cityName": "VELLORE"
+  },
+  {
+    "cityName": "VERAVAL"
+  },
+  {
+    "cityName": "VIJAYAWADA"
+  },
+  {
+    "cityName": "VIKRAMGADH"
+  },
+  {
+    "cityName": "VISHAKAPATNAM"
+  },
+  {
+    "cityName": "WAYANAD"
+  },
+  {
+    "cityName": "WANKANER"
+  },
+  {
+    "cityName": "YAMUNOTRI"
+  },
+  {
+    "cityName": "YERCAUD"
+  },
+  {
+    "cityName": "YUKSOM"
+  }
+]
