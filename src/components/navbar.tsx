@@ -2,7 +2,11 @@ import React from "react";
 import "./styles/navbar.scss";
 import { IoIosMenu } from "react-icons/io";
 
-const Navbar = () => {
+interface NavbarProps {
+  toggleComponent : ()=> void;
+}
+
+const Navbar: React.FC<NavbarProps> = ({ toggleComponent }) => {
   return (
     <>
       <div className="navbar">
@@ -26,6 +30,7 @@ const Navbar = () => {
         <div className="sidenav">
           <div className="menu">
             <IoIosMenu
+              onClick={toggleComponent}
               className="menuicon"
               style={{ color: "white", fontSize: "3em" }}
             />
