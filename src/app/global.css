@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: linear-gradient(140deg,rgb(50, 9, 48) ,rgb(8, 8, 49)); */
+    /* background-image: linear-gradient(140deg,rgb(0, 0, 0) ,rgb(0, 0, 0)); */
+	background:  linear-gradient(rgba(0, 0, 0, 0.263),rgba(10, 63, 255, 0.053)),
+    repeating-conic-gradient(#FFF2 0%, transparent .0004%, transparent 0.005%, transparent .0495%), 
+    radial-gradient(circle at 50% 50%, #0b0b0b, #000);
+}
