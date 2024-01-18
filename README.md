@@ -3,13 +3,14 @@
 
 Tech_Stack -- Nextjs14 , Typescript , SCSS , Chartjs , Axios , Js , UI / UX and also learned how the Searching of the data Works
 
-#### About
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Preview Image 
 
 ![Front Dashboard Page ](https://github.com/saiyamdubey/Weather_App/blob/456f68303f86342c81de7a01a72c8a6eceab5e34/public/images/Weather%20App%20Images%20preview.png)
+
+
+#### About
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
