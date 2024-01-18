@@ -1,4 +1,11 @@
-h1{
-    font-size: 4em;
-    color: aqua;
+.chartarea{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chart{
+    width: 90%;
+    height: 90%;
 }

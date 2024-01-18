@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import Navbar from "@/components/navbar";
 import "../styles/dashboard.scss";

@@ -3,7 +3,7 @@ import "./styles/navbar.scss";
 import { IoIosMenu } from "react-icons/io";
 
 interface NavbarProps {
-  toggleComponent : ()=> void;
+  toggleComponent: () => void;
 }
 
 const Navbar: React.FC<NavbarProps> = ({ toggleComponent }) => {
