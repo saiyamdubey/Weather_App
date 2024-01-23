@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@cubejs-client/core": "^0.34.37",
+    "@types/chart.js": "^2.9.41",
     "axios": "^1.6.5",
     "chart.js": "^4.4.1",
     "dotenv": "^16.3.1",
     "next": "^14.0.4",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
     "sass": "^1.69.7",
