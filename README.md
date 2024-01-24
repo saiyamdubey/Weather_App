@@ -1,9 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-## Preview Image 
+## Preview Image ..
 
 ![Front Dashboard Page ](https://github.com/saiyamdubey/Weather_App/blob/456f68303f86342c81de7a01a72c8a6eceab5e34/public/images/Weather%20App%20Images%20preview.png)
+
+## Graphic using chartjs library ..
+
+![chartjs](https://github.com/saiyamdubey/Weather_App/blob/05c9a4fe587c039e0adeadda4002c1d9f2cb2bbc/public/images/Barchart.png)
 
 ## Getting Started
 
