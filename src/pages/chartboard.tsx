@@ -24,13 +24,13 @@ ChartJS.register(
   Filler
 );
 
-type salesData = {
+type SalesData = {
   time: string;
   temperature_2m: string;
 };
 
 function BarChart() {
-  const [salesData, setSalesData] = useState<salesData[] | null>(null);
+  const [salesData, setSalesData] = useState<SalesData[] | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -51,32 +51,32 @@ function BarChart() {
     return <div className="loading">Loading...</div>;
   }
 
+  const labels = salesData.map((data) => data.time.slice(0, 10));
+  const temperatures = salesData.map((data) =>
+    data.temperature_2m.slice(0, 10)
+  );
+
   const data = {
-    labels: salesData.time.slice(0, 10), // Include only the first 10 elements
+    labels: labels,
     datasets: [
       {
         label: "Temperature",
-        data: salesData.temperature_2m.slice(0, 10), // Include only the first 10 elements
-        backgroundColor: "#cb0c9f",
-        borderWidth: 1,
+        data: temperatures,
         backgroundColor: [
-          "rgba(255, 99, 132)",
+          "rgba(255, 100, 0)",
           "rgba(255, 159, 64)",
+          "rgba(25, 12, 64)",
+          "rgba(252, 5, 4)",
+          "rgba(25, 159, 254)",
+          "rgba(5, 100, 200)",
           "rgba(255, 205, 86)",
           "rgba(75, 192, 192)",
           "rgba(54, 162, 235)",
           "rgba(153, 102, 255)",
           "rgba(201, 203, 207)",
         ],
-        borderColor: [
-          "rgb(255, 99, 132)",
-          "rgb(255, 159, 64)",
-          "rgb(255, 205, 86)",
-          "rgb(75, 192, 192)",
-          "rgb(54, 162, 235)",
-          "rgb(153, 102, 255)",
-          "rgb(201, 203, 207)",
-        ],
+        borderWidth: 2,
+        borderColor: "#fff",
       },
     ],
   };
@@ -89,39 +89,40 @@ function BarChart() {
     scales: {
       y: {
         ticks: {
+          color: "#fff",
           font: {
             size: 15,
           },
         },
         title: {
           display: true,
+          color: "#fff",
           text: "Temperature",
           padding: {
-            bottom: 10,
+            bottom: 2,
           },
           font: {
-            size: 20,
+            size: 16,
           },
         },
       },
       x: {
         type: "category",
         ticks: {
+          color: "#fff",
           font: {
-            size: 17,
-            weight: "bold",
+            size: 10,
           },
         },
         title: {
+          color: "#fff",
           display: true,
-          text: "Time",
+          text: "Time in Hourly basis",
           padding: {
-            top: 10,
+            top: 15,
           },
           font: {
-            size: 30,
-            style: "italic",
-            family: "Arial",
+            size: 15,
           },
         },
       },
@@ -129,7 +130,7 @@ function BarChart() {
   };
 
   return (
-    <div>
+    <div className="main_chart">
       <h1 className="chartarea">Bar Chart</h1>
       <div className="chart">
         <Bar data={data} options={options} />
