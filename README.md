@@ -9,7 +9,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![chartjs](https://github.com/saiyamdubey/Weather_App/blob/05c9a4fe587c039e0adeadda4002c1d9f2cb2bbc/public/images/Barchart.png)
 
-## Getting Started
+## Getting Started+
 
 First, run the development server:
 
