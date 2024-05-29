@@ -1,7 +1,7 @@
 "use client";
 
 import Navbar from "@/components/navbar";
-import "../styles/dashboard.scss";
+import "@/styles/dashboard.scss";
 import Weathersection from "@/components/weathersection";
 import Chartboard from "../pages/chartboard";
 import { useState } from "react";

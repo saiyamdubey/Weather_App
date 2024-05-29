@@ -83,57 +83,64 @@ function BarChart() {
 
   const options = {
     plugins: {
-      legend: true,
+      legend: {
+        display: true,
+        labels: {
+          color: '#fff',
+          font: {
+            size: 12
+          }
+        }
+      }
     },
     responsive: true,
     scales: {
       y: {
         ticks: {
-          color: "#fff",
+          color: '#fff',
           font: {
-            size: 15,
-          },
+            size: 15
+          }
         },
         title: {
           display: true,
-          color: "#fff",
-          text: "Temperature",
+          color: '#fff',
+          text: 'Temperature',
           padding: {
-            bottom: 2,
+            bottom: 2
           },
           font: {
-            size: 16,
-          },
-        },
+            size: 16
+          }
+        }
       },
       x: {
-        type: "category",
+        type: 'category',
         ticks: {
-          color: "#fff",
+          color: '#fff',
           font: {
-            size: 10,
-          },
+            size: 10
+          }
         },
         title: {
-          color: "#fff",
+          color: '#fff',
           display: true,
-          text: "Time in Hourly basis",
+          text: 'Time in Hourly basis',
           padding: {
-            top: 15,
+            top: 15
           },
           font: {
-            size: 15,
-          },
-        },
-      },
-    },
+            size: 15
+          }
+        }
+      }
+    }
   };
-
   return (
     <div className="main_chart">
       <h1 className="chartarea">Bar Chart</h1>
       <div className="chart">
-        <Bar data={data} options={options} />
+        <Bar data={data}/>
       </div>
     </div>
   );
